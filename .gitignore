@@ -1,4 +1,5 @@
-headers.txt
+/headers
+/headers.txt
 
 # Build Directories
 [Bb]in
