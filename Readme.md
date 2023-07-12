@@ -21,6 +21,9 @@ Getting Started
 ![devtools](devtools-light.png#gh-light-mode-only)
 ![devtools](devtools-dark.png#gh-dark-mode-only)
 
+- Paste the clipboard content to a file named `headers.txt` alongside the executable.
+- You should be able to use Twitch GraphQL API through command line now.
+
 Documentation
 -------------
 
