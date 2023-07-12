@@ -198,9 +198,8 @@ int main(string[] args)
 				else
 					return usageError("Too many arguments.");
 				
-				ptrdiff_t maxLen = maxElement(map!(c => c.id.length)(channels));
 				foreach (channel; channels)
-					writefln("%*s %s", -maxLen, channel.id, channel.login);
+					writefln("%s\t%s", channel.id, channel.login);
 				break;
 			
 			case "unfollow-all":
