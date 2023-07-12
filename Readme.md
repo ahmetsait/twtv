@@ -39,7 +39,7 @@ Unfollow user.
 Get a list of followed channels.
 
 `twtv [options] unfollow-all`  
-Unfollow all followed channel.
+Unfollow all followed channels.
 
 ### Options
 
