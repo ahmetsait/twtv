@@ -17,10 +17,8 @@ Getting Started
 - Open browser dev tools (F12) -> Network
 - Refresh the page
 - Copy the headers of one of the gql requests (Right Click → Copy Value → Copy Request Headers)
-
-![devtools](devtools-light.png#gh-light-mode-only)
-![devtools](devtools-dark.png#gh-dark-mode-only)
-
+  ![devtools](devtools-light.png#gh-light-mode-only)
+  ![devtools](devtools-dark.png#gh-dark-mode-only)
 - Paste the clipboard content to a file named `headers.txt` alongside the executable.
 - You should be able to use Twitch GraphQL API through command line now.
 
@@ -33,13 +31,13 @@ Documentation
 Get user id from user name.
 
 `twtv [options] follow <id> [notifications]`  
-Follow user.
+Follow user. Seems highly rate limited, wait 4 second between requests to be safe.
 
 `twtv [options] unfollow <id>`  
 Unfollow user.
 
 `twtv [options] get-followed-channels`  
-Get a list of followed channels.
+Get a list of followed channel IDs and names. You can pipe the output through `cut -f1` or `cut -f2` to get IDs or names respectively.
 
 `twtv [options] unfollow-all`  
 Unfollow all followed channels.
