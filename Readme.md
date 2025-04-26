@@ -1,7 +1,7 @@
 <div align="center">
 
 Twtv  
-[![Platforms](https://img.shields.io/badge/platforms-windows%20%7C%20linux-blue)](https://github.com/ahmetsait/twtv/releases) [![Latest Release](https://img.shields.io/github/v/release/ahmetsait/twtv)](https://github.com/ahmetsait/twtv/releases/latest) [![Downloads](https://img.shields.io/github/downloads/ahmetsait/twtv/total)](https://github.com/ahmetsait/twtv/releases) [![License](https://img.shields.io/github/license/ahmetsait/twtv)](LICENSE_1_0.txt)
+[![Platforms](https://img.shields.io/badge/platforms-windows%20%7C%20linux-blue)](https://github.com/ahmetsait/twtv/releases) [![Latest Release](https://img.shields.io/github/v/release/ahmetsait/twtv)](https://github.com/ahmetsait/twtv/releases/latest) [![Downloads](https://img.shields.io/github/downloads/ahmetsait/twtv/total)](https://github.com/ahmetsait/twtv/releases) [![License](https://img.shields.io/github/license/ahmetsait/twtv)](LICENSE_1_0.txt) [![Sponsor](https://img.shields.io/badge/Sponsor-black?logo=githubsponsors)](https://github.com/sponsors/ahmetsait)
 ========
 </div>
 
